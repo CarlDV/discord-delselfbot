@@ -1,8 +1,15 @@
 import discord
 from discord.ext import commands
-
+'''
+input your tokens. starts from 0 to whatever number of token there is. IT STARTS FROM 0. YOU CAN SEPARATE TOKENS BY USING , for example:
 Tks = [
-    'token' #input your tokens. starts from 0 to whatever number of token there is. 0 to inf 
+    'token', index starts from zero so this will be 0
+    'token2',  and this will be 1
+    'token3' and this will be 3 and so on...
+]
+'''
+Tks = [
+    'token'
 ]
 
 bot = commands.Bot(command_prefix='!')
