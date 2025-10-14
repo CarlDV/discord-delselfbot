@@ -5,7 +5,7 @@ input your tokens. starts from 0 to whatever number of token there is. IT STARTS
 Tks = [
     'token', index starts from zero so this will be 0
     'token2',  and this will be 1
-    'token3' and this will be 3 and so on...
+    'token3' and this will be 2 and so on...
 ]
 '''
 Tks = [
