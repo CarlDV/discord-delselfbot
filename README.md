@@ -1,6 +1,8 @@
 `to use,
 delete discord.py if you have it installed and use this intead:`
-``` pip install discord.py-self ```
+
+```bash
+pip install discord.py-self ```
 
 
 # The Program:
