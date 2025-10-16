@@ -4,7 +4,7 @@ delete discord.py if you have it installed and use
 instead.
 
 
-#The Program:
+# The Program:
 
 ```python
 import discord
