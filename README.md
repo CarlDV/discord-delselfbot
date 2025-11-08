@@ -2,9 +2,9 @@
 delete discord.py if you have it installed and use this intead:`
 
 `pip install discord.py-self`
+note that you will be rate limited when you executed this.
 
-
-# The Program:
+# The code:
 
 ```python
 import discord
