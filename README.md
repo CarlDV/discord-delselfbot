@@ -2,7 +2,6 @@
 delete discord.py if you have it installed and use this intead:`
 
 `pip install discord.py-self`
-note that you will be rate limited when you executed this.
 
 # The code:
 
@@ -36,4 +35,7 @@ async def on_ready():
             except: pass
     print("Done")
 
-bot.run(Tks[0])```
+bot.run(Tks[0])
+```
+
+`note that you will be rate limited when you executed this.`
